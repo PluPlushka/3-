@@ -1,0 +1,9 @@
+﻿  for1.c
+  for2.c
+  for3.c
+  for4.c
+  for5.c
+  main.c
+C:\Users\Плю_Плю\source\repos\lab3-main\lab3_1\lab3_1\main.c(24,15): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  lab3_1.vcxproj -> C:\Users\Плю_Плю\source\repos\lab3-main\lab3_1\x64\Debug\for.exe
